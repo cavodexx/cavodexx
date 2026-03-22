@@ -1,9 +1,17 @@
 # Hello
 Welcome to my profile, here you can see what I know or what I'm learning.
 
-### Languages that i know<br>
-![Known Languages](https://skillicons.dev/icons?i=lua,ts,css,nodejs,react,&theme=dark)
+### Languages I know
+![Known Languages](https://skillicons.dev/icons?i=c,js,ts,lua&theme=dark)
 
-### Languages that i'm still learning
-![Learning](https://skillicons.dev/icons?i=cpp,rust&theme=dark)
+### Languages I'm currently learning
+![Learning](https://skillicons.dev/icons?i=cpp,rust,kotlin&theme=dark)
 
+### Web Technologies & Runtimes
+![Web Tech](https://skillicons.dev/icons?i=nextjs,vue,nodejs,bun&theme=dark)
+
+### OS I Use
+![Windows](https://skillicons.dev/icons?i=windows&theme=dark) [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org)
+
+### Software I use daily
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio&theme=dark) [![Zed](https://img.shields.io/badge/Zed-121212?style=for-the-badge&logo=zed-dot-dev&logoColor=white)](https://zed.dev)

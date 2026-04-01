@@ -7,8 +7,6 @@ Welcome to my profile, here you can see what I know or what I'm learning.
 ### Languages I'm currently learning
 ![Learning](https://skillicons.dev/icons?i=cpp,rust,kotlin&theme=dark)
 
-### Web Technologies & Runtimes
-![Web Tech](https://skillicons.dev/icons?i=nextjs,vue,nodejs,bun&theme=dark)
 
 ### OS I Use
 ![Windows](https://skillicons.dev/icons?i=windows&theme=dark) [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org)
